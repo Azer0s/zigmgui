@@ -1,3 +1,6 @@
 [submodule "cimgui"]
 	path = cimgui
 	url = https://github.com/cimgui/cimgui.git
+[submodule "mach-glfw"]
+	path = mach-glfw
+	url = https://github.com/hexops/mach-glfw
